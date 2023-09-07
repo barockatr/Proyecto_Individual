@@ -1,4 +1,4 @@
-import Card from '../card/Card.jsx';
+import Card from '/card/Card.jsx';
 
 export default function Cards({characters, onClose}) {
    console.log(characters); // [ {...}, {...}, ... ]

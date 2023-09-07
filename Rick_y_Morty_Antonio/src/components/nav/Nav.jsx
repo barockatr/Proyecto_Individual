@@ -1,4 +1,4 @@
-import SearchBar from "../searchBar/SearchBar";
+import SearchBar from "/searchBar/SearchBar";
 
 export default function Nav( { onSearch } ) {
     // props = { onSearch }
